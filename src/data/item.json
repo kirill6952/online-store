@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "HMALTI",
+    "price": 99,
+    "imgUrl": "/imgs/image1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "PHILIPS",
+    "price": 199,
+    "imgUrl": "/imgs/image2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "JL",
+    "price": 279,
+    "imgUrl": "/imgs/image3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "SK",
+    "price": 89,
+    "imgUrl": "/imgs/image4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "NORTH",
+    "price": 48,
+    "imgUrl": "/imgs/image5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "CHOPARD",
+    "price": 25,
+    "imgUrl": "./imgs/image6.jpg"
+  }
+]
